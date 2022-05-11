@@ -1,9 +1,9 @@
 
 /**
- * Write a description of file here.
+ * Write a description of KivaCommand here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @rhymenoe Noel Rhymer
+ * @V1 05/11/22
  */
 public enum KivaCommand {
     
